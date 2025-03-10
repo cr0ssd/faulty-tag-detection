@@ -29,8 +29,8 @@ Este proyecto utiliza visión por computadora (OpenCV), ThingSpeak y un ESP32 co
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone [https://github.com/cran/DELTD](https://github.com/cran/DELTD)
-    cd [nombre del repositorio]
+    git clone [https://github.com/cr0ssd/faulty-tag-detection](https://github.com/cr0ssd/faulty-tag-detection)
+    cd [faulty-tag-detection]
     ```
 
 2.  **Instala las dependencias de Python:**
